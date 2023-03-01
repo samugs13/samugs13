@@ -1,7 +1,7 @@
 ### Hi there, I'm Samuel
 
 - 🔭 I'm a Telco Engineer, currently studying a Master's degree in Telecommunications Engineering at [Universidad Politécnica de Madrid](https://upm.es).
-- 🌱 I'm currently learning and really interested in scripting, networking and cybersecurity applied to cloud environments and wireless communications.
+- 🌱 I'm currently learning and really interested in pentesting and IoT.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/samuel-garcia-sanchez/)
 
 ## My GitHub most used programming languages
